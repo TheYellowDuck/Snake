@@ -2,6 +2,8 @@
 
 A fully playable Snake game built with **Java Swing** — my first independent software project.
 
+https://github.com/user-attachments/assets/86964c33-f588-46e8-9a75-cb2526216e93
+
 ---
 
 ## Overview
